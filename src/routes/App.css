@@ -1,0 +1,21 @@
+.appContainer{
+  width: 100vw;
+}
+.SideBarContainer{
+  height: 100vh;
+}
+.MainContainer{
+  width: 100%;
+ 
+}
+.heroContainer{
+  width: 80vw;
+  height: 70vh;
+  /* border: 1px solid black; */
+  overflow: auto;
+}
+.cardBody{
+
+  background-color: rgb(243, 236, 228);
+
+}
